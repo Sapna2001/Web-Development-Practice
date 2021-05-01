@@ -22,7 +22,7 @@
 - [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)
 - [Classes](https://www.hackerrank.com/challenges/js10-class/problem)
 - [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)
--
+
 ## Day 5
 - [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)
 - [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)
