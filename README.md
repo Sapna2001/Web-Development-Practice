@@ -2,7 +2,6 @@
 
 ## Contribution Guidelines🏗
 
-Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and make it better. 
 To start contributing, follow the below guidelines: 
 
 **1.**  Fork [this](https://github.com/Sapna2001/Web-Development-Practice.git) repository.
@@ -16,7 +15,7 @@ git clone https://github.com/<your_user_name>/Web-Development-Practice.git
 **3.** Create a folder with your name: .
 
 ```
-cd folder name
+cd folder_name
 ```
 
 **4.** Add a reference(remote) to the original repository.
@@ -70,4 +69,4 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 
-**15** Voila :exclamation: You have made a PR to the awesome-javascript-projects :boom: . Wait for your submission to be accepted and your PR to be merged.
+
