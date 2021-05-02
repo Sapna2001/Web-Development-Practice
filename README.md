@@ -70,4 +70,5 @@ git push -u origin <your_branch_name>
 
 ## Participants
 1. [Sapna](https://github.com/Sapna2001/Web-Development-Practice/tree/main/Sapna)
+2. [Sanjay](https://github.com/Sapna2001/Web-Development-Practice/tree/main/Sanjay)
 
