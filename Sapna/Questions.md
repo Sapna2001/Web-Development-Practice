@@ -1,5 +1,9 @@
 # 30 Days learning challenge!!!
 
+## Day 0
+- [Fork this repository](https://github.com/Sapna2001/Web-Development-Practice)
+- Create a folder with your name]
+
 ## Day 1
 - [Hello World](https://www.hackerrank.com/challenges/js10-hello-world/problem)
 - [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem)
