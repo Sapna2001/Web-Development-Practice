@@ -74,6 +74,6 @@ git push -u origin <your_branch_name>
 3. [Javed](https://github.com/Sapna2001/Web-Development-Practice/tree/main/Javed)
 4. [Ashik](https://github.com/Sapna2001/Web-Development-Practice/tree/main/Ashik)
 5. [Shreyas](https://github.com/Sapna2001/Web-Development-Practice/tree/main/shreyas)
-6. [Leo](https://github.com/Sapna2001/Web-Development-Practice/tree/main/leo)
+6. [Leo](https://github.com/Sapna2001/Web-Development-Practice/tree/main/Leo)
 
 
