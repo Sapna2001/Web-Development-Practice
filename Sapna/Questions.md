@@ -17,7 +17,7 @@
 
 ## Day 3
 - [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)
-- [Arrays](https://www.hackerrank.com/challenges/js10-loops/problem)
+- [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)
 - [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)
 - [Throw](https://www.hackerrank.com/challenges/js10-throw/problem)
 
