@@ -28,7 +28,6 @@ function readLine() {
 *   @return {Number} The second largest number in the array.
 **/
 function getSecondLargest(nums) {
-    // Complete the function
     var lar2=-1, lar1=-1;
     for(var j=0;j<nums.length;j++)
     {
