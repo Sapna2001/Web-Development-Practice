@@ -1,4 +1,4 @@
-// Day 2 Functions
+//Day 3 Try.Catch and Finally
 
 'use strict';
 
@@ -17,30 +17,32 @@ process.stdin.on('end', _ => {
         return string.trim();
     });
     
-    main();  
+    main();    
 });
-
 
 function readLine() {
     return inputString[currentLine++];
 }
 
-
-function factorial(n) 
+function reverseString(s)
 {
-    var m =1;
-  while (n>0) {
-      m = m*n;
-      n--;
+    var a =[];
+    a = s.split('');
+    a = a.reverse();
+    s = a.join('');
+    return s;
+}
+
+try {
+    var s = Number(1234);
+    s = reverseString(s);
+} 
+catch (error) {
+    console.log(error);
   }
-  return m;  
-}
 
-void main()
+finally
 {
-    var n = readLine();
-    if(n>=1 && n<=10)
-    {
-    console.log(factorial(n));
-    }
+    console.log(s);
 }
+ 
