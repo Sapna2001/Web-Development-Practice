@@ -1,4 +1,4 @@
-// Day 2 Functions
+// Day 6 Regular Expression 3
 
 'use strict';
 
@@ -26,21 +26,16 @@ function readLine() {
 }
 
 
-function factorial(n) 
+function regExp3()
 {
-    var m =1;
-  while (n>0) {
-      m = m*n;
-      n--;
-  }
-  return m;  
+    var re = /\d+/g;
+     return re
 }
 
-void main()
+var s = "1,4 and 4,1.4";
+var re = regExp3();
+var r = s.match(re);
+for( const e of r)
 {
-    var n = readLine();
-    if(n>=1 && n<=10)
-    {
-    console.log(factorial(n));
-    }
+    console.log(e);
 }

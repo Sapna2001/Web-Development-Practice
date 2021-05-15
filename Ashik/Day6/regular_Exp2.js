@@ -1,4 +1,4 @@
-// Day 2 Functions
+// Day 6 Regular Expression 2
 
 'use strict';
 
@@ -26,21 +26,15 @@ function readLine() {
 }
 
 
-function factorial(n) 
+function regExp2(s)
 {
-    var m =1;
-  while (n>0) {
-      m = m*n;
-      n--;
-  }
-  return m;  
+    var re = /[Me.,Mrs.,Ms.,Dr.,Er.](?<=)[Me.,Mrs.,Ms.,Dr.,Er.]][a-z,A-z]/;
+    return re;   
 }
 
 void main()
 {
-    var n = readLine();
-    if(n>=1 && n<=10)
-    {
-    console.log(factorial(n));
-    }
+    var s = readLine();
+    var re = regExp2(s);
+    console.log(re.test(s));
 }
